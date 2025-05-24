@@ -1,11 +1,11 @@
 # 💻 ThinkPad W540: Мощь Без Границ 🚀
 
 <div align="center">
-  <img src="images/IMG-20241220-WA0000.jpg" width="200" alt="Вид спереди">
-  <img src="images/IMG-20241217-WA0004.jpg" width="200">
-  <img src="images/IMG-20241219-WA0006.jpg" width="200" alt="Intel AX210">
-  <img src="images/IMG-20241219-WA0004.jpg" width="200" alt="Разблокированный BIOS">
-   <img src="images/IMG-20241219-WA0005.jpg" width="200" alt="Разблокированный BIOS">
+  <img src="images/IMG-20241220-WA0000.jpg" width="180" alt="Вид спереди">
+  <img src="images/IMG-20241217-WA0004.jpg" width="180" alt="Вид сбоку">
+  <img src="images/IMG-20241219-WA0006.jpg" width="180" alt="Модуль Intel AX210">
+  <img src="images/IMG-20241219-WA0004.jpg" width="180" alt="Интерфейс BIOS">
+  <img src="images/IMG-20241219-WA0005.jpg" width="180" alt="Распайка чипа">
 </div>
 
 ---
@@ -18,6 +18,11 @@
   ▸ Базовая частота: 2.8 GHz, Turbo Boost: до 3.8 GHz  
   ▸ TDP: 47 Вт  
 
+### **Память**
+- **DDR3L 32GB** (4x8GB)  
+  ▸ Поддержка частот до 2133 MHz  
+  ▸ Режим Dual Channel
+
 ### **Графика (GPU)**
 - **Интегрированная:** Intel HD Graphics 4600  
 - **Дискретная:** NVIDIA Quadro K2100M (2 GB GDDR5)  
@@ -29,7 +34,7 @@
 
 ### **Сеть**
 - **Ethernet:** Intel I217-LM (Gigabit)  
-- **WiFi 6E:**  Intel AX210 
+- **WiFi 6E:** Intel AX210  
   ▸ Поддержка 6 ГГц диапазона  
   ▸ Скорость до 2.4 Гбит/с  
 
@@ -41,7 +46,7 @@
 1. **Инструменты:**  
    - Программатор CH341A + SOIC-8 клипса
    - Модифицированный BIOS (например, с [BIOS-mods](https://bios-mods.ru))
-   
+
 2. **Процесс:**
    ```bash
    # Дамп текущего BIOS
