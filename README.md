@@ -32,9 +32,7 @@
 
 ### **Сеть**
 - **Ethernet:** Intel I217-LM (Gigabit)  
-- **WiFi 6E:** Intel AX210  
-  ▸ Поддержка 6 ГГц диапазона  
-  ▸ Скорость до 2.4 Гбит/с  
+- **WiFi 6E:** Intel AX210 
 
 ---
 
@@ -50,9 +48,10 @@
 
     🐮 **Обсуждение Coreboot на Reddit** 
     ```bash
-    https://www.reddit.com/r/coreboot/comments/12oeag8/thinkpad_w541_coreboottianocore_guide/ ```
-
+    https://www.reddit.com/r/coreboot/comments/12oeag8/thinkpad_w541_coreboottianocore_guide/ 
+    ```
     🐈 **Руководство по Coreboot от NekoEa**
     ```bash
-    https://blog.nekoea.red/posts/coreboot/ ```
+    https://blog.nekoea.red/posts/coreboot/ 
+    ```
     
