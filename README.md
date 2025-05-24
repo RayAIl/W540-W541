@@ -1,11 +1,9 @@
 # 💻 ThinkPad W540: Мощь Без Границ 🚀
 
 <div align="center">
-  <img src="images/IMG-20241220-WA0000.jpg" width="180">
-  <img src="images/IMG-20241217-WA0004.jpg" width="180">
+  <img src="images/IMG-20241217-WA0004.jpg" width="180" alt="Дампы">
   <img src="images/IMG-20241219-WA0006.jpg" width="180" alt="Модуль Intel AX210">
-  <img src="images/IMG-20241219-WA0004.jpg" width="180" alt="Интерфейс BIOS">
-  <img src="images/IMG-20241219-WA0005.jpg" width="180" alt="Распайка чипа">
+  <img src="images/IMG-20241219-WA0005.jpg" width="180" alt="Интерфейс BIOS">
 </div>
 
 ---
@@ -50,9 +48,11 @@
 
 ## 🌐 Внешние Ресурсы
 
-    🐮 **Обсуждение Coreboot на Reddit** ```bash
-    https://www.reddit.com/r/coreboot/comments/12oeag8/thinkpad_w541_coreboottianocore_guide/ ```bash
+    🐮 **Обсуждение Coreboot на Reddit** 
+    ```bash
+    https://www.reddit.com/r/coreboot/comments/12oeag8/thinkpad_w541_coreboottianocore_guide/ ```
 
-    🐈 **Руководство по Coreboot от NekoEa** ```bash
-    https://blog.nekoea.red/posts/coreboot/ ```bash
+    🐈 **Руководство по Coreboot от NekoEa**
+    ```bash
+    https://blog.nekoea.red/posts/coreboot/ ```
     
