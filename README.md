@@ -1,8 +1,8 @@
 # 💻 ThinkPad W540: Мощь Без Границ 🚀
 
 <div align="center">
-  <img src="images/IMG-20241220-WA0000.jpg" width="180" alt="Вид спереди">
-  <img src="images/IMG-20241217-WA0004.jpg" width="180" alt="Вид сбоку">
+  <img src="images/IMG-20241220-WA0000.jpg" width="180">
+  <img src="images/IMG-20241217-WA0004.jpg" width="180">
   <img src="images/IMG-20241219-WA0006.jpg" width="180" alt="Модуль Intel AX210">
   <img src="images/IMG-20241219-WA0004.jpg" width="180" alt="Интерфейс BIOS">
   <img src="images/IMG-20241219-WA0005.jpg" width="180" alt="Распайка чипа">
@@ -45,7 +45,16 @@
 ### **Удаление White List + Разблокировка BIOS**
 1. **Инструменты:**  
    - Программатор CH341A + SOIC-8 клипса
-   - Модифицированный BIOS (например, с [BIOS-mods](https://bios-mods.ru))
+     
+---
+
+🌐 Внешние Ресурсы
+
+    🐮 Обсуждение Coreboot на Reddit [Reddit]((https://www.reddit.com/r/coreboot/comments/12oeag8/thinkpad_w541_coreboottianocore_guide/))
+
+    🐈 Руководство по Coreboot от NekoEa [Coreboot](https://blog.nekoea.red/posts/coreboot/))
+    
+---
 
 2. **Процесс:**
    ```bash
