@@ -1,10 +1,11 @@
 # 💻 ThinkPad W540: Мощь Без Границ 🚀
 
 <div align="center">
-  <img src="https://example.com/w540_front.jpg" width="200" alt="Вид спереди">
-  <img src="https://example.com/w540_keyboard.jpg" width="200" alt="Клавиатура">
-  <img src="https://example.com/w540_ports.jpg" width="200" alt="Порты">
+  <img src="images/IMG-20241220-WA0000.jpg" width="200" alt="Вид спереди">
+  <img src="images/IMG-20241217-WA0004.jpg" width="200">
+  <img src="images/IMG-20241219-WA0006.jpg" width="200" alt="Intel AX210">
   <img src="images/IMG-20241219-WA0004.jpg" width="200" alt="Разблокированный BIOS">
+   <img src="images/IMG-20241219-WA0005.jpg" width="200" alt="Разблокированный BIOS">
 </div>
 
 ---
@@ -28,7 +29,7 @@
 
 ### **Сеть**
 - **Ethernet:** Intel I217-LM (Gigabit)  
-- **WiFi 6E:** [Установленный модуль, напр. Intel AX210]  
+- **WiFi 6E:**  Intel AX210 
   ▸ Поддержка 6 ГГц диапазона  
   ▸ Скорость до 2.4 Гбит/с  
 
