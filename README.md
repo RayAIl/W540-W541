@@ -50,9 +50,9 @@
 
 ## 🌐 Внешние Ресурсы
 
-    🐮 **Обсуждение Coreboot на Reddit** 
-    ((https://www.reddit.com/r/coreboot/comments/12oeag8/thinkpad_w541_coreboottianocore_guide/))
+    🐮 **Обсуждение Coreboot на Reddit** ```bash
+    https://www.reddit.com/r/coreboot/comments/12oeag8/thinkpad_w541_coreboottianocore_guide/ ```bash
 
-    🐈 **Руководство по Coreboot от NekoEa** 
-    (https://blog.nekoea.red/posts/coreboot/))
+    🐈 **Руководство по Coreboot от NekoEa** ```bash
+    https://blog.nekoea.red/posts/coreboot/ ```bash
     
