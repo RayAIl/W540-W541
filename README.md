@@ -48,18 +48,11 @@
      
 ---
 
-🌐 Внешние Ресурсы
+## 🌐 Внешние Ресурсы
 
-    🐮 Обсуждение Coreboot на Reddit [Reddit]((https://www.reddit.com/r/coreboot/comments/12oeag8/thinkpad_w541_coreboottianocore_guide/))
+    🐮 **Обсуждение Coreboot на Reddit** 
+    ((https://www.reddit.com/r/coreboot/comments/12oeag8/thinkpad_w541_coreboottianocore_guide/))
 
-    🐈 Руководство по Coreboot от NekoEa [Coreboot](https://blog.nekoea.red/posts/coreboot/))
+    🐈 **Руководство по Coreboot от NekoEa** 
+    (https://blog.nekoea.red/posts/coreboot/))
     
----
-
-2. **Процесс:**
-   ```bash
-   # Дамп текущего BIOS
-   flashrom -p ch341a_spi -r backup.rom
-
-   # Прошивка модифицированной версии
-   flashrom -p ch341a_spi -w unlocked_bios.rom --verify
