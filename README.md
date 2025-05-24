@@ -4,7 +4,7 @@
   <img src="https://example.com/w540_front.jpg" width="200" alt="Вид спереди">
   <img src="https://example.com/w540_keyboard.jpg" width="200" alt="Клавиатура">
   <img src="https://example.com/w540_ports.jpg" width="200" alt="Порты">
-  <img src="W540/images/IMG-20241219-WA0004.jpg" width="200" alt="Разблокированный BIOS">
+  <img src="images/IMG-20241219-WA0004.jpg" width="200" alt="Разблокированный BIOS">
 </div>
 
 ---
